@@ -1,0 +1,11 @@
+2025-01-11 18:49:15 [WARNING]: Skipped 7 malformed log entries.
+2025-01-11 18:49:15 [INFO]: Details of skipped entries have been saved to 'malformed_logs.txt'.
+2025-01-11 18:51:10 [ERROR]: The file 'empty_logs.txt' was not found.
+2025-01-11 18:53:52 [WARNING]: Skipped 6 malformed log entries.
+2025-01-11 18:53:52 [INFO]: Details of skipped entries have been saved to 'malformed_logs.txt'.
+2025-01-11 18:57:14 [WARNING]: Skipped 7 malformed log entries.
+2025-01-11 18:57:14 [INFO]: Details of skipped entries have been saved to 'malformed_logs.txt'.
+2025-01-11 20:50:04 [WARNING]: Skipped 6 malformed log entries.
+2025-01-11 20:50:04 [INFO]: Details of skipped entries have been saved to 'malformed_logs.txt'.
+2025-01-11 20:55:58 [WARNING]: Skipped 6 malformed log entries.
+2025-01-11 20:55:58 [INFO]: Details of skipped entries have been saved to 'malformed_logs.txt'.

@@ -1,0 +1,8 @@
+Skipped 6 malformed entries.
+Details of skipped entries:
+2025-01-12 02:45: INFO Maintenance completed  # Invalid timestamp format
+2025-01-10 09:23:45 INF Application started  # Invalid or missing log level
+2025-01-10 09:26: ERR Unable to connect to database  # Invalid timestamp format & Invalid or missing log level
+2025-01-10 09:30: INFO  # Invalid timestamp format
+2025-01-10 09:35:20  # Invalid or missing log level
+2025-01-1 10:15:5 DEBU  # Invalid timestamp format & Invalid or missing log level
